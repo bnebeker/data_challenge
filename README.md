@@ -1,6 +1,12 @@
 DATA CHALLENGE
 -
 
+Thank you for your interest in Data Science at Brightside! The next step in the process is 
+a data challenge. The goal for us is to get an understanding of how you approach and think about
+problems, and how you work with data. While the deliverable includes a machine learning model, the 
+evaluation is much deeper than that -- we care about how you're getting to that final state, your logic, 
+and your code.  
+
 This repository has 2 years worth of Lending Club loan files stored in the data/ directory. 
 These files are quarterly, and have data on loans that Lending Club has 
 issued (date, amount, term, interest rate), metadata about the customer who took them 

@@ -2,10 +2,15 @@ DATA CHALLENGE
 -
 
 This repository has 2 years worth of Lending Club loan files stored in the data/ directory. 
-These files have data on loans that Lending Club has issued, 
-metadata about the customer who took them out, and the loan status. 
+These files are quarterly, and have data on loans that Lending Club has 
+issued (date, amount, term, interest rate), metadata about the customer who took them 
+out (employment, annual income, FICO), and the loan status. There is a data dictionary stored
+in the docs/ directory.
 
-Goal: build a model that predicts probability of default, using the data provided
+Goal: build a model that predicts each loan's probability of default, using the data provided.
+
+Model Usage: this model will be used to determine which new loans an investor should invest in.
+Keep that goal in mind as you build your feature set and final solution.
 
 To get started, fork this repository, make the repository you're working on private,
 and add me as a collaborator.

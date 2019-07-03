@@ -13,9 +13,11 @@ issued (date, amount, term, interest rate), metadata about the customer who took
 out (such as employment, annual income, FICO), and the loan status. There is a data dictionary stored
 in the docs/ directory.
 
-Goal: build a model that predicts each loan's probability of default, using the data provided.
+Goal: build a model that predicts a new loan's probability of default, using the data provided.
 
 Model Usage: this model will be used to determine which new loans an investor should invest in.
+This means: I am going to Lending Club and ready to invest $100. There is a list of loans (which have not
+yet been funded) that I get to choose from, and I want to know which ones are the best to invest in.
 Keep that goal in mind as you build your feature set and final solution.
 
 To get started, fork this repository, make the repository you're working on private,

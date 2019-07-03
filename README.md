@@ -28,5 +28,10 @@ When you have completed the data challenge, send me an email at
 brett.nebeker@gobrightside.com to let me know it's ready to be reviewed. You can use this 
 same email address if you have any questions. 
 
+**NOTE: the immediate need for our team is more data visualization work (building out 
+core company dashboards, in an effort to limit our future ad-hoc requests). Therefore, it would
+be beneficial for you to focus more of your energy on the early stages of the data science flow
+(cleaning, EDA, etc), and less time on the modeling.**
+
 Have fun!
 

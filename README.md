@@ -13,14 +13,14 @@ issued (date, amount, term, interest rate), metadata about the customer who took
 out (such as employment, annual income, FICO), and the loan status. There is a data dictionary stored
 in the docs/ directory.
 
-Goal: build a model that predicts a new loan's probability of default, using the data provided.
+Goal: build a model that informs the user which loans they should invest in.
 
-Model Usage: this model will be used to determine which new loans an investor should invest in.
-This means: I am going to Lending Club and ready to invest $100. There is a list of loans (which have not
+Model Usage: Your goal is to inform investors on the best loans. This means: I am going to Lending Club and 
+ready to invest $100. There is a list of loans on their site (which have not
 yet been funded) that I get to choose from, and I want to know which ones are the best to invest in.
 Keep that goal in mind as you build your feature set and final solution.
 
-To get started, fork this repository, make the repository you're working on private,
+To get started, clone this repository, make the repository you're working on private,
 and add me as a collaborator.
 
 There is no time limit on this challenge -- it is up to you
@@ -30,10 +30,10 @@ When you have completed the data challenge, send me an email at
 brett.nebeker@gobrightside.com to let me know it's ready to be reviewed. You can use this 
 same email address if you have any questions. 
 
-**NOTE: the immediate need for our team is more data visualization work (building out 
-core company dashboards, in an effort to limit our future ad-hoc requests). Therefore, it would
+NOTE: if you are applying for the data science analyst position, 
+the focus initially is more data analytics/visualization work. Therefore, it would
 be beneficial for you to focus more of your energy on the early stages of the data science flow
-(cleaning, EDA, etc), and less time on the modeling.**
+(cleaning, EDA, etc), and less time on the modeling.
 
 Have fun!
 

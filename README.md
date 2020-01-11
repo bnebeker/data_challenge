@@ -31,9 +31,9 @@ brett.nebeker@gobrightside.com to let me know it's ready to be reviewed. You can
 same email address if you have any questions. 
 
 NOTE: if you are applying for the data science analyst position, 
-the focus initially is more data analytics/visualization work. Therefore, it would
+the focus of the role is more data analytics/visualization work. Therefore, it would
 be beneficial for you to focus more of your energy on the early stages of the data science flow
-(cleaning, EDA, etc), and less time on the modeling.
+(cleaning, EDA, etc), whether in Python or Tableau. The ML model is optional.
 
 Have fun!
 

@@ -6,7 +6,7 @@ problems, and how you work with data. While the deliverable includes a machine l
 evaluation is much deeper than that -- we care about how you're getting to that final state, your logic, 
 and your code.  
 
-This repository has 2 years worth of Lending Club loan files stored in the data/ directory. 
+This repository has 2 years worth of Lending Club loan files stored in the data/ directory (gzipped csvs). 
 These files are quarterly, and have data on loans that Lending Club has 
 issued (date, amount, term, interest rate), metadata about the customer who took them 
 out (such as employment, annual income, FICO), and the loan status. There is a data dictionary stored
